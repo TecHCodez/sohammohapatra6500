@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...discord bots
-- 📫 How to reach me ...dm me on discord [TECHROSTEDMIND#4535]
+- 📫 How to reach me ...dm me on discord [iQuacky#0001]
 
 
 <!---
