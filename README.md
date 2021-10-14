@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohammohapatra6500
+- 👋 Hi, I’m @TechroDiscord
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...discord bots
