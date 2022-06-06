@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @TechroDiscord
+- 👋 Hi, I’m @sohammohapatra
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...discord bots
-- 📫 How to reach me ...dm me on discord [TechroDiscord#5236]
+- 📫 How to reach me ...dm me on discord [</ItzTechroHere#5641]
 
 
 <!---
